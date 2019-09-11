@@ -2,10 +2,9 @@
 
 This repository is all about my study about algoritm from random websites.
 * Right-angled triangle
-  - Find the perimeter which makes the most amount of right-angled triangles
+  > Find the perimeter which makes the most amount of right-angled triangles
 * Tic-tac-toe(Bingo)
-  - Get input from two players and if one of them makes a straight line, print the output
-    > This one was quite tricky not like it looks. Need to be tidy code up after cooling down my brain
+  > Get input from two players and if one of them makes a straight line, print the output
   
   
 # 알고리즘 스터디
